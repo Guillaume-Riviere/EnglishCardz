@@ -1,12 +1,162 @@
 data =[
     {
-        "word":"Cow",
-        "definition":"a fully grown female animal of a domesticated breed of ox, kept to produce milk or beef.",
-        "hint":"- Animal <br>- Farm"
+        "word":"Parking",
+        "definition":"Space to park vehicules",
+        "hint":"- Cars <br>- In town"
+    },
+    {
+        "word":"Golf",
+        "definition":"A game where you use long sticks to hit a small ball into holes",
+        "hint":"- Sport <br>- Club"
+    },
+    {
+        "word":"Hip-Hop",
+        "definition":"A form of popular culture. It includes rap music and graffiti art.",
+        "hint":"- Dance <br>- Music"
+    },
+    {
+        "word":"Helicopter",
+        "definition":"An aircraft with long blades that go round very fast. It is able to stay still in the air.",
+        "hint":"- Vehicule <br>- Fly"
+    },
+    {
+        "word":"Shampoo",
+        "definition":"A soapy liquid that you use for washing your hair",
+        "hint":"- Shower <br>- Head"
+    },
+    {
+        "word":"Pizza",
+        "definition":"A flat, round piece covered with tomatoes, cheese, and other savoury food, and then baked in an oven.",
+        "hint":"- Food <br>- Italian"
+    },
+    {
+        "word":"Headphones",
+        "definition":"A pair of speakers which you wear over your ears in order to listen to recorded music",
+        "hint":"- Music <br>- Alone"
+    },
+    {
+        "word":"Zebra",
+        "definition":"An African wild horse which has black and white stripe.",
+        "hint":"- Animal <br>- Black and White"
+    },
+    {
+        "word":"Rabbit",
+        "definition":"A small animal with long ears. Rabbits are sometimes kept as pets, or live wild in holes in the ground.",
+        "hint":"- Animal <br>- Jump"
+    },
+    {
+        "word":"Bird",
+        "definition":"A creature with feathers and wings. Most birds can fly.",
+        "hint":"- Animal <br>- Fly"
+    },
+    {
+        "word":"King",
+        "definition":"A man who is the most important member of the royal family of his country.",
+        "hint":"- Throne <br>- Kingdom"
+    },
+    {
+        "word":"Kangaroo",
+        "definition":"A large Australian animal which moves by jumping on its back legs.",
+        "hint":"- Animal <br>- Boxe"
+    },
+    {
+        "word":"Plastic",
+        "definition":"A material which is produced from oil and which is used to make many objects. It is light in weight and does not break easily.",
+        "hint":"- Petrol <br>- Everywhere"
+    },
+    {
+        "word":"Summer",
+        "definition":"The season between spring and autumn when the weather is usually warm or hot.",
+        "hint":"- Season <br>- Hot"
+    },
+    {
+        "word":"Laptop",
+        "definition":"A small portable computer",
+        "hint":"- Computer <br>- Portable"
+    },
+    {
+        "word":"Cinema",
+        "definition":"A place where people go to watch films for entertainment.",
+        "hint":"- Films <br>- Big Room"
+    },
+    {
+        "word":"Sausage",
+        "definition":"Consists of minced meat, usually pork, mixed with other ingredients and is contained in a tube made of skin or a similar material.",
+        "hint":"- Food <br>- HotDog"
+    },
+    {
+        "word":"Party",
+        "definition":"A social event at which people enjoy themselves doing things such as eating, drinking, dancing, talking, or playing games.",
+        "hint":"- Friends <br>- Fun"
+    },
+    {
+        "word":"Hospital",
+        "definition":"A place where people who are sick are looked after by nurses and doctors.",
+        "hint":"- Health <br>- Medic"
+    },
+    {
+        "word":"Beach",
+        "definition":"An area of sand or stones beside the sea.",
+        "hint":"- Sand <br>- Sea"
     },
     {
         "word":"Table",
-        "definition":"a piece of furniture with a flat top and one or more legs, providing a level surface for eating, writing, or working at.",
+        "definition":"A piece of furniture with a flat top that you put things on.",
         "hint":"- Furniture <br>- Kitchen"
-    }
+    },
+    {
+        "word":"Water",
+        "definition":"a clear thin liquid that has no colour. It falls from clouds as rain. All animals and people need water in order to live.",
+        "hint":"- Drink <br>- Transparent"
+    },
+    {
+        "word":"Bread",
+        "definition":"A very common food made from flour, water, and yeast.",
+        "hint":"- Food <br>- French"
+    },
+    {
+        "word":"Video",
+        "definition":"A film or television programme recorded digitally for people to watch on a television.",
+        "hint":"- Youtube <br>- Podcast"
+    },
+    {
+        "word":"Keyboard",
+        "definition":"A set a key, used for computer, or for Piano",
+        "hint":"- Computer <br>- Typing"
+    },
+    {
+        "word":"Socks",
+        "definition":"Pieces of clothing which cover your foot and are worn inside shoes.",
+        "hint":"- Warm <br>- Feet"
+    },
+    {
+        "word":"Snake",
+        "definition":"A long, thin reptile without legs.",
+        "hint":"- Animal <br>- Venimous"
+    },
+    {
+        "word":"Phone",
+        "definition":"A device that you use to talk to someone else in another place.",
+        "hint":"- Call <br>- Sms"
+    },
+    {
+        "word":"Book",
+        "definition":"Books contain information, stories, or poetry, for example. They are make out of paper.",
+        "hint":"- Pages <br>- Read"
+    },
+    {
+        "word":"Cloud",
+        "definition":"A mass of water vapour that floats in the sky. Clouds are usually white or grey in colour.",
+        "hint":"- Sky <br>- White"
+    },
+    {
+        "word":"Garden",
+        "definition":"A piece of land next to a house, with flowers, vegetables, other plants, and often grass",
+        "hint":"- Flowers <br>- Outside"
+    },
+    {
+        "word":"Market",
+        "definition":"A place where goods are bought and sold, usually outdoors.",
+        "hint":"- Outside <br>- Buy"
+    },
 ]
