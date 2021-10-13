@@ -1,7 +1,7 @@
-data =[
+data2 =[
     {
-        "word":"Cow",
-        "definition":"a fully grown female animal of a domesticated breed of ox, kept to produce milk or beef."
+        "word":"Horse",
+        "definition":"a large plant-eating domesticated mammal with solid hoofs and a flowing mane and tail, used for riding, racing, and to carry and pull loads."
     },
     {
         "word":"",

@@ -1,14 +1,6 @@
-data =[
+data3 =[
     {
-        "word": "Cow",
-        "sentence": "a fully grown female animal of a domesticated breed of ox, kept to produce milk or beef."
-    },
-    {
-        "word": "",
-        "sentence": ""
-    },
-    {
-        "word": "    awarness",
+        "word": "awarness",
         "sentence": "Seventeen year olds have no awarness of the risk involved"
     },
     {

@@ -2,11 +2,11 @@ data =[
     {
         "word":"Cow",
         "definition":"a fully grown female animal of a domesticated breed of ox, kept to produce milk or beef.",
-        "hint":"Animal"
+        "hint":"- Animal <br>- Farm"
     },
     {
-        "word":"",
-        "definition":"",
-        "hint":""
+        "word":"Table",
+        "definition":"a piece of furniture with a flat top and one or more legs, providing a level surface for eating, writing, or working at.",
+        "hint":"- Furniture <br>- Kitchen"
     }
 ]

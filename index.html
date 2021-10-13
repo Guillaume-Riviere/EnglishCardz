@@ -10,28 +10,33 @@
         <div class="card">
 
             <div class="box_container easy">
-                <div class="word"><p>Cow</p></div>
-                <div class="definition"><p>a fully grown female animal of a domesticated breed of ox, kept to produce milk or beef.</p></div>
+                <div class="word"><p id="easy_word"></p></div>
+                <div class="definition"><p id="easy_definition"></p></div>
                 <span class="v_spacer"></span>
-                <div class="hint"><p>- Animals <br>- Farm</p></div>
+                <div class="hint"><p id="easy_hint"></p></div>
             </div>
 
 
             <div class="box_container middle medium">
-                <div class="word"><p>Horse</p></div>
-                <div class="definition_lvl2"><p>a large plant-eating domesticated mammal with solid hoofs and a flowing mane and tail, used for riding, racing, and to carry and pull loads.</p></div>
+                <div class="word"><p id="medium_word"></p></div>
+                <div class="definition_lvl2"><p id="medium_def"></p></div>
             </div>
 
 
             <div class="box_container hard">
-                <div class="word"><p>Flamingo</p></div>
-                <div class="sentence"><p>Volunteers release <b>flamingo</b> at the Fuente de Piedra natural reserve</p></div>
+                <div class="word"><p id="hard_word"></p></div>
+                <div class="sentence"><p id="hard_sentence"></p></div>
             </div>
         </div>
 
-        <button>Change Card</button>
+        <button id="button" onclick="init_card()">Change Card</button>
 
     </div>
+    
+    <script src=".\json\deck1_lvl1.json"></script>
+    <script src=".\json\deck1_lvl2.json"></script>
+    <script src=".\json\deck1_lvl3.json"></script>
+    <script src=".\js\card.js"></script>
 </body>
 </html>
 
