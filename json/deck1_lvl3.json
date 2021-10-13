@@ -1,10 +1,90 @@
 data3 =[
     {
-        "word":"Flamingo",
-        "sentence":"Volunteers release <b>flamingo</b> at the Fuente de Piedra natural reserve"
+        "word": "awarness",
+        "sentence": "Seventeen year olds have no awarness of the risk involved"
     },
     {
-        "word":"",
-        "sentence":""
-    }
+        "word": "beware",
+        "sentence": "Beware of fast knowledge. It is more dangerous than ignorance. "
+    },
+    {
+        "word": "bond",
+        "sentence": "We've got a real bond you and I."
+    },
+    {
+        "word": "carefree",
+        "sentence": "People over sixty are more carefree than we might imagine."
+    },
+    {
+        "word": "chatter",
+        "sentence": "You can hear the chatter of people engaging in conversation."
+    },
+    {
+        "word": "chop",
+        "sentence": "I've roughly chopped up some onion and softened it in oil."
+    },
+    {
+        "word": "clip",
+        "sentence": "You attach the entry pass to your clothes with a clip."
+    },
+    {
+        "word": "dedicated",
+        "sentence": "There should be dedicated cycle lanes on all main road."
+    },
+    {
+        "word": "dependable",
+        "sentence": "He is really dependable. If he says, he'll do something he will."
+    },
+    {
+        "word": "discernible",
+        "sentence": "There was no discernible difference beetween any of the candidates."
+    },
+    {
+        "word": "drawback",
+        "sentence": "The main drawback to the job is the unsociable hours."
+    },
+    {
+        "word": "embarassement",
+        "sentence": "Embarassement can make people avoid social situations, and even not go out at all."
+    },
+    {
+        "word": "eligible",
+        "sentence": "At what age are you eligible to vote in your country ?"
+    },
+    {
+        "word": "enhance",
+        "sentence": "The eventual aim is to design better products that will improve and enhance communication."
+    },
+    {
+        "word": "formal",
+        "sentence": "Everyone is dressed in formal clothes, and you're in jeans and a T-shirt."
+    },
+    {
+        "word": "frivolous",
+        "sentence": "You shouldn't make any frivolous decisions. You may regret them later."
+    },
+    {
+        "word": "gently",
+        "sentence": "This needs to cook gently for at least half an hour."
+    },
+    {
+        "word": "handful",
+        "sentence": "I've been living here for a while and i've only got a handful of friend."
+    },
+    {
+        "word": "imply",
+        "sentence": "Just because a person has a poor memory, this does not imply that he or she is not intelligent."
+    },
+    {
+        "word": "likelihood",
+        "sentence": "There is a likelihood of snow later in the week."
+    },
+    {
+        "word": "madman",
+        "sentence": "I had just told a guest that this VIP guy was a madman."
+    },
+    {
+        "word": "mandatory",
+        "sentence": "Several governments have made it mandatory for cyclists to wear helmets."
+    },
 ]
