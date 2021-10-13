@@ -1,7 +1,7 @@
-data =[
+data3 =[
     {
-        "word":"Cow",
-        "sentence":"a fully grown female animal of a domesticated breed of ox, kept to produce milk or beef."
+        "word":"Flamingo",
+        "sentence":"Volunteers release <b>flamingo</b> at the Fuente de Piedra natural reserve"
     },
     {
         "word":"",
