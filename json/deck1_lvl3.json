@@ -1,90 +1,36 @@
 data3 =[
-    {
-        "word": "Awarness",
-        "sentence": "Seventeen year olds have no awarness of the risk involved"
-    },
-    {
-        "word": "Beware",
-        "sentence": "Beware of fast knowledge. It is more dangerous than ignorance. "
-    },
-    {
-        "word": "Bond",
-        "sentence": "We've got a real bond you and I."
-    },
-    {
-        "word": "Carefree",
-        "sentence": "People over sixty are more carefree than we might imagine."
-    },
-    {
-        "word": "Chatter",
-        "sentence": "You can hear the chatter of people engaging in conversation."
-    },
-    {
-        "word": "Chop",
-        "sentence": "I've roughly chopped up some onion and softened it in oil."
-    },
-    {
-        "word": "Clip",
-        "sentence": "You attach the entry pass to your clothes with a clip."
-    },
-    {
-        "word": "Dedicated",
-        "sentence": "There should be dedicated cycle lanes on all main road."
-    },
-    {
-        "word": "Dependable",
-        "sentence": "He is really dependable. If he says, he'll do something he will."
-    },
-    {
-        "word": "Discernible",
-        "sentence": "There was no discernible difference beetween any of the candidates."
-    },
-    {
-        "word": "Drawback",
-        "sentence": "The main drawback to the job is the unsociable hours."
-    },
-    {
-        "word": "Embarassement",
-        "sentence": "Embarassement can make people avoid social situations, and even not go out at all."
-    },
-    {
-        "word": "Eligible",
-        "sentence": "At what age are you eligible to vote in your country ?"
-    },
-    {
-        "word": "Enhance",
-        "sentence": "The eventual aim is to design better products that will improve and enhance communication."
-    },
-    {
-        "word": "Formal",
-        "sentence": "Everyone is dressed in formal clothes, and you're in jeans and a T-shirt."
-    },
-    {
-        "word": "Frivolous",
-        "sentence": "You shouldn't make any frivolous decisions. You may regret them later."
-    },
-    {
-        "word": "Gently",
-        "sentence": "This needs to cook gently for at least half an hour."
-    },
-    {
-        "word": "Handful",
-        "sentence": "I've been living here for a while and i've only got a handful of friend."
-    },
-    {
-        "word": "Imply",
-        "sentence": "Just because a person has a poor memory, this does not imply that he or she is not intelligent."
-    },
-    {
-        "word": "Likelihood",
-        "sentence": "There is a likelihood of snow later in the week."
-    },
-    {
-        "word": "Madman",
-        "sentence": "I had just told a guest that this VIP guy was a madman."
-    },
-    {
-        "word": "Mandatory",
-        "sentence": "Several governments have made it mandatory for cyclists to wear helmets."
-    },
+    {         "word": "Awarness",         "sentence": "Seventeen year olds have no awarness of the risk involved" },
+    {         "word": "Beware",         "sentence": "Beware of fast knowledge. It is more dangerous than ignorance. " },
+    {         "word": "Bond",         "sentence": "We've got a real bond you and I." },
+    {         "word": "Carefree",         "sentence": "People over sixty are more carefree than we might imagine." },
+    {         "word": "Chatter",         "sentence": "You can hear the chatter of people engaging in conversation." },
+    {         "word": "Chop",         "sentence": "I've roughly chopped up some onion and softened it in oil." },
+    {         "word": "Clip",         "sentence": "You attach the entry pass to your clothes with a clip." },
+    {         "word": "Dedicated",         "sentence": "There should be dedicated cycle lanes on all main road." },
+    {         "word": "Dependable",         "sentence": "He is really dependable. If he says, he'll do something he will." },
+    {         "word": "Discernible",         "sentence": "There was no discernible difference beetween any of the candidates." },
+    {         "word": "Drawback",         "sentence": "The main drawback to the job is the unsociable hours." },
+    {         "word": "Embarassement",         "sentence": "Embarassement can make people avoid social situations, and even not go out at all." },
+    {         "word": "Eligible",         "sentence": "At what age are you eligible to vote in your country ?" },
+    {         "word": "Enhance",         "sentence": "The eventual aim is to design better products that will improve and enhance communication." },
+    {         "word": "Formal",         "sentence": "Everyone is dressed in formal clothes, and you're in jeans and a T-shirt." },
+    {         "word": "Frivolous",         "sentence": "You shouldn't make any frivolous decisions. You may regret them later." },
+    {         "word": "Gently",         "sentence": "This needs to cook gently for at least half an hour." },
+    {         "word": "Handful",         "sentence": "I've been living here for a while and i've only got a handful of friend." },
+    {         "word": "Imply",         "sentence": "Just because a person has a poor memory, this does not imply that he or she is not intelligent." },
+    {         "word": "Likelihood",         "sentence": "There is a likelihood of snow later in the week." },
+    {         "word": "Madman",         "sentence": "I had just told a guest that this VIP guy was a madman." },
+    {         "word": "Mandatory",         "sentence": "Several governments have made it mandatory for cyclists to wear helmets." },
+    {         "word": "Moody",         "sentence": "If we bring a moody attitude, we'll probably have a depressing day." },
+    {         "word": "Narrow-Minded",         "sentence": "Don't be so narrow-minded, this is the 21st century !" },
+    {         "word": "Nest",         "sentence": "A termite's nest is utterly astonishing." },
+    {         "word": "Outcome",         "sentence": "This type of person is focused on the long term outcome." },
+    {         "word": "Overtake",         "sentence": "Ghazabadia in India could overtake Surat in terms of growth rate in the next ten years." },
+    {         "word": "Overwhelm",         "sentence": "Many film-makers have seen our worries about rapid changes overwhelming us." },
+    {         "word": "Plummet",         "sentence": "The number of houses built in the city have plummeted in recent years." },
+    {         "word": "Prosper",         "sentence": "We all want our children to prosper in life." },
+    {         "word": "Reckless",         "sentence": "My brother is always things like cycling at night at night without any lights." },
+    {         "word": "Scepticism",         "sentence": "My immetiade reaction was one of slight scepticism." },
+    {         "word": "Unfulfilled",         "sentence": "Many were frustrated that so many of their dreams had gone unfulfilled." },
+    {         "word": "Withdraw",         "sentence": "I'd like to withdraw 200 euro, please." },
 ]
