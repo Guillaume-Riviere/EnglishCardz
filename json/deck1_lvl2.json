@@ -1,138 +1,138 @@
 data2 =[
     {
         "word":"Improve",
-        "definition":""
+        "definition":"To enhance in value or quality : make better."
     },
     {
         "word":"Development",
-        "definition":""
+        "definition":"The process of growing or changing and becoming more advanced."
     },
     {
         "word":"Rider",
-        "definition":""
+        "definition":"A person who travels along on a horse or bicycle."
     },
     {
         "word":"Fuel",
-        "definition":""
+        "definition":"A substance that is used to provide heat or power, usually by being burned."
     },
     {
         "word":"Glass",
-        "definition":""
+        "definition":"A hard, transparent material, used to make windows, bottles, and other objects."
     },
     {
         "word":"Lie",
-        "definition":""
+        "definition":"To be in or move into a horizontal position on a surface."
     },
     {
         "word":"Athletics",
-        "definition":""
+        "definition":"The general name for a particular group of sports in which people compete, including running, jumping, and throwing."
     },
     {
         "word":"Round",
-        "definition":""
+        "definition":"In a circular direction or position; around."
     },
     {
         "word":"Focus",
-        "definition":""
+        "definition":"The main or central point of something, especially of attention or interest."
     },
     {
         "word":"Kick",
-        "definition":""
+        "definition":"To hit someone or something with the foot, or to move the feet and legs suddenly and violently."
     },
     {
         "word":"Manager",
-        "definition":""
+        "definition":"The person who is responsible for managing an organization."
     },
     {
         "word":"Lorry",
-        "definition":""
+        "definition":"A truck."
     },
     {
         "word":"Scarf",
-        "definition":""
+        "definition":"A strip, square, or triangle of cloth, worn around the neck, head, or shoulders to keep you warm or to make you look attractive."
     },
     {
         "word":"Theatre",
-        "definition":""
+        "definition":"A building, room, or outside structure with rows of seats, each row usually higher than the one in front, from which people can watch a performance or other activity."
     },
     {
         "word":"Skill",
-        "definition":""
+        "definition":"An ability to do an activity or job well, especially because you have practised it."
     },
     {
         "word":"Size",
-        "definition":""
+        "definition":"How large or small something or someone is."
     },
     {
         "word":"Bestseller",
-        "definition":""
+        "definition":"A product that is extremely popular and has sold in very large numbers."
     },
     {
         "word":"Mathematics",
-        "definition":""
+        "definition":"The study of numbers, shapes, and space using reason and usually a special system of symbols and rules for organizing them."
     },
     {
         "word":"Wave",
-        "definition":""
+        "definition":"To raise your hand and move it from side to side as a way of greeting someone, telling someone to do something, or adding emphasis to an expression."
     },
     {
         "word":"Western",
-        "definition":""
+        "definition":"In or from the west of a place."
     },
     {
         "word":"Waterfall",
-        "definition":""
+        "definition":"Water, especially from a river or stream, dropping from a higher to a lower point, sometimes from a great height."
     },
     {
         "word":"Towel",
-        "definition":""
+        "definition":"A piece of cloth or paper used for drying someone or something that is wet."
     },
     {
         "word":"Torch",
-        "definition":""
+        "definition":"A small light that is held in the hand and usually gets its power from batteries."
     },
     {
         "word":"Belt",
-        "definition":""
+        "definition":"A strip of leather or material worn around the waist to support clothes or for decoration."
     },
     {
         "word":"Yard",
-        "definition":""
+        "definition":"A unit of measurement equal to three feet or approximately 91.4 centimetres."
     },
     {
         "word":"Label",
-        "definition":""
+        "definition":"A piece of paper or other material that gives you information about the object it is attached to."
     },
     {
         "word":"armchair",
-        "definition":""
+        "definition":"A comfortable chair with sides that support your arms."
     },
     {
         "word":"Lightning",
-        "definition":""
+        "definition":"A flash of bright light in the sky that is produced by electricity moving between clouds or from clouds to the ground."
     },
     {
         "word":"Freeze",
-        "definition":""
+        "definition":"If you freeze something, you lower its temperature below 0°C, causing it to become cold and often hard, and if something freezes, its temperature goes below 0°C."
     },
     {
         "word":"Frog",
-        "definition":""
+        "definition":"A small animal that has smooth skin, lives in water and on land, has long powerful back legs with which it jumps from place to place, has no tail, and is usually greenish-brown in colour."
     },
     {
         "word":"Fortnight",
-        "definition":""
+        "definition":"A period of two weeks."
     },
     {
         "word":"Perfume",
-        "definition":""
+        "definition":"A liquid with a pleasant smell, usually made from oils taken from flowers or spices and often used on the skin."
     },
     {
-        "word":"Pepper",
-        "definition":""
+        "word":"Blackboard",
+        "definition":"A dark surface on a wall or frame that a teacher writes on with chalk."
     },
     {
-        "word":"Salt",
-        "definition":""
+        "word":"Recall",
+        "definition":"To bring the memory of a past event into your mind, and often to give a description of what you remember."
     },
 ]

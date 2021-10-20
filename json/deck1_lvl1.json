@@ -159,4 +159,14 @@ data =[
         "definition":"A place where goods are bought and sold, usually outdoors.",
         "hint":"- Outside <br>- Buy"
     },
+    {
+        "word":"Coffee",
+        "definition":"A dark brown powder with a strong flavour and smell that is made by crushing dark beans from a tropical bush and used to make a drink.",
+        "hint":"- Drink <br>- Energy"
+    },
+    {
+        "word":"Peper",
+        "definition":"A grey or white powder produced by crushing dry peppercorns, used to give a spicy, hot taste to food.",
+        "hint":"- Salt <br>- Spicy"
+    },
 ]
