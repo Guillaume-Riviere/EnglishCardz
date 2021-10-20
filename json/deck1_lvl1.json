@@ -1,12 +1,12 @@
 data =[
     {
         "word":"Parking",
-        "definition":"Space to park vehicules",
+        "definition":"Space to park vehicules.",
         "hint":"- Cars <br>- In town"
     },
     {
         "word":"Golf",
-        "definition":"A game where you use long sticks to hit a small ball into holes",
+        "definition":"A game where you use long sticks to hit a small ball into holes.",
         "hint":"- Sport <br>- Club"
     },
     {
@@ -21,7 +21,7 @@ data =[
     },
     {
         "word":"Shampoo",
-        "definition":"A soapy liquid that you use for washing your hair",
+        "definition":"A soapy liquid that you use for washing your hair.",
         "hint":"- Shower <br>- Head"
     },
     {
@@ -31,7 +31,7 @@ data =[
     },
     {
         "word":"Headphones",
-        "definition":"A pair of speakers which you wear over your ears in order to listen to recorded music",
+        "definition":"A pair of speakers which you wear over your ears in order to listen to recorded music.",
         "hint":"- Music <br>- Alone"
     },
     {
@@ -71,7 +71,7 @@ data =[
     },
     {
         "word":"Laptop",
-        "definition":"A small portable computer",
+        "definition":"A small portable computer.",
         "hint":"- Computer <br>- Portable"
     },
     {
@@ -121,7 +121,7 @@ data =[
     },
     {
         "word":"Keyboard",
-        "definition":"A set a key, used for computer, or for Piano",
+        "definition":"A set a key, used for computer, or for Piano.",
         "hint":"- Computer <br>- Typing"
     },
     {
@@ -151,7 +151,7 @@ data =[
     },
     {
         "word":"Garden",
-        "definition":"A piece of land next to a house, with flowers, vegetables, other plants, and often grass",
+        "definition":"A piece of land next to a house, with flowers, vegetables, other plants, and often grass.",
         "hint":"- Flowers <br>- Outside"
     },
     {
