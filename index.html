@@ -8,26 +8,32 @@
 <body>
     <div class="main">
         <div class="card">
-
-            <div class="box_container easy">
-                <div class="word"><p id="easy_word"></p></div>
-                <div class="definition"><p id="easy_definition"></p></div>
-                <span class="v_spacer"></span>
-                <div class="hint"><p id="easy_hint"></p></div>
-            </div>
-
-
-            <div class="box_container middle medium">
-                <div class="word"><p id="medium_word"></p></div>
-                <div class="definition_lvl2"><p id="medium_def"></p></div>
-            </div>
+            <div class="inner">
+                <div class="back">
+                    <div class="box_container easy">
+                        <div class="word"><p id="easy_word"></p></div>
+                        <div class="definition"><p id="easy_definition"></p></div>
+                        <span class="v_spacer"></span>
+                        <div class="hint"><p id="easy_hint"></p></div>
+                    </div>
 
 
-            <div class="box_container hard">
-                <div class="word"><p id="hard_word"></p></div>
-                <div class="sentence"><p id="hard_sentence"></p></div>
-            </div>
+                    <div class="box_container middle medium">
+                        <div class="word"><p id="medium_word"></p></div>
+                        <div class="definition_lvl2"><p id="medium_def"></p></div>
+                    </div>
+
+
+                    <div class="box_container hard">
+                        <div class="word"><p id="hard_word"></p></div>
+                        <div class="sentence"><p id="hard_sentence"></p></div>
+                    </div>
+                </div>
+
+                <div class="front"></div>
+            </div>   
         </div>
+        
         <div class="right">
             <div></div>
             <div><button id="button" onclick="init_card()">Change Card</button></div>
