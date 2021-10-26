@@ -169,6 +169,7 @@ body{
 .score input{
     margin-bottom: 10px;
     text-align: center;
+    border-radius: 8px;
 }
 .score{
     height: 33%;
