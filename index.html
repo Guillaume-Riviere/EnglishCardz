@@ -10,7 +10,7 @@
         <div class="card">
             <div class="inner">
                 <div class="back">
-                    <div class="box_container easy">
+                    <div class="box_container easy top_card">
                         <div class="word"><p id="easy_word"></p></div>
                         <div class="definition"><p id="easy_definition"></p></div>
                         <span class="v_spacer"></span>
@@ -24,7 +24,7 @@
                     </div>
 
 
-                    <div class="box_container hard">
+                    <div class="box_container hard bot_card">
                         <div class="word"><p id="hard_word"></p></div>
                         <div class="sentence"><p id="hard_sentence"></p></div>
                     </div>
@@ -35,9 +35,16 @@
         </div>
         
         <div class="right">
-            <div></div>
-            <div><button id="button" onclick="init_card()">Change Card</button></div>
-            <div><a href="./instructions.html"><button class="instructions">Instructions</button></a></div>
+            <div class="score">
+                <div class="spacer_useless"></div>
+                <input class="input" placeholder="Team A"><input class="input_score" type="text">
+                <input class="input" placeholder="Team B"><input class="input_score" type="text">
+                <input class="input" placeholder="Team C"><input class="input_score" type="text">
+                <input class="input" placeholder="Team D"><input class="input_score" type="text">
+                <input class="input" placeholder="Team E"><input class="input_score" type="text">
+            </div>
+            <div class="inner_right"><button id="button" onclick="init_card()">Change Card</button></div>
+            <div class="inner_right"><a href="./instructions.html"><button class="instructions">Instructions</button></a></div>
         </div>
     </div>
     
