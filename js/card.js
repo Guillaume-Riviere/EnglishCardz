@@ -1,6 +1,7 @@
 function init_card(){
     //console.log(data);
     random = getRandomInt(0, (data.length));
+    console.log(data.length);
 
     document.getElementById("easy_word").innerHTML=data[random].word;
     document.getElementById("easy_definition").innerHTML=data[random].definition;
